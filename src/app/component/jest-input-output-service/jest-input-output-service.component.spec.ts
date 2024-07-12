@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { JestInputOutputServiceComponent } from './jest-input-output-service.component';
-import { pluck, rang } from './utils';
+import { pluck, rang } from '../../utilities/utils';
 describe('abc', () => {
   let component: JestInputOutputServiceComponent;
   let fixture: ComponentFixture<JestInputOutputServiceComponent>;
