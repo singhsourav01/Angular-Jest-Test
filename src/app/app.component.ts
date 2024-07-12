@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { CustomButtonComponent } from './custom-button/custom-button.component';
+import { CustomButtonComponent } from './component/custom-button/custom-button.component';
 
 @Component({
   selector: 'app-root',
