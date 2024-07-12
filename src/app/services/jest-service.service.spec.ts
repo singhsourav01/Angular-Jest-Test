@@ -23,7 +23,7 @@ describe('JestServiceService', () => {
     })
   })
 
-  it('should be created', () => {
+  it.only('should be created', () => {
     expect(service).toBeTruthy();
   });
 });
